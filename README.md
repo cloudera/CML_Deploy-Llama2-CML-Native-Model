@@ -1,7 +1,11 @@
 ### Deploy LLM as a model within CML
 This project walks through a deployment and hosting of a Large Languge Model (LLM) within CML. The project can be cloned into CML directly,  It can be launched as an Applied Machine Learning Prototype (AMP)
 
+### Site settings prerequisites
+Go to Site Administration > Settings > Ephemeral Storage Limit (in GB) and set to 20GB
+
 ### Deploy the model as an AMP
+Add catalog entry to Site administration and the navigate to AMPs --> "Shared LLM Model for Hands on Lab"
 
 ### Deploy the model manually
 Deploy the model by:
